@@ -9,5 +9,5 @@
 <p>4. Move the passman files into your Envirovment Variabel or to /usr/local/bin for Linux user</p>
 
 <br>
-<p>i looking for every contributor who want to contribute to this Password Manager Command Line interface</p>
-<h2>Thank you</h2>
+<h2>Thank you.</h2>
+<p>i looking for every contributor who want to contribute to this Password Manager Command Line interface.</p>
