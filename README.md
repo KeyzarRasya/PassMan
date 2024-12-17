@@ -8,5 +8,6 @@
 <p>3. Compile the main.c using <b>gcc -o passman main.c</b></p>
 <p>4. Move the passman files into your Envirovment Variabel or to /usr/local/bin for Linux user</p>
 
+<br>
 <p>i looking for every contributor who want to contribute to this Password Manager Command Line interface</p>
 <h2>Thank you</h2>
